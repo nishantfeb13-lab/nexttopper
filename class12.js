@@ -1,0 +1,8 @@
+export default function Class12() {
+  return (
+    <div>
+      <h1>Class 12 Chemistry Chapter 1 Notes</h1>
+      <p>Solutions are homogeneous mixtures of two or more substances...</p>
+    </div>
+  );
+}
